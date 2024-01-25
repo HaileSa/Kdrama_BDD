@@ -11,10 +11,10 @@ Sur ce repository, vous trouverez :
 
 ## Utilisation
 
- ** - Importer la Base de Données :**
+  - Importer la Base de Données :
     - Utilisez le fichier SQL fourni pour importer la structure de la base de données dans votre serveur MySQL.
 
- ** - Explorer les Données :**
+  - Explorer les Données :
     - Utilisez les requêtes SQL fournies dans les fichiers des différentes requêtes pour explorer et récupérer des informations depuis différentes tables.
 
 ## Aperçu du Schéma
